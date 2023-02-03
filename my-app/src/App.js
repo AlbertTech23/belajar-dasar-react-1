@@ -14,6 +14,7 @@ import Excuser from './Excuser';
 function App() {
   return <div className='App'>
     <div>
+      <h1>Tambahan</h1>
       {/* <User name="Albert" age={18} email="albert@albert.com" />
       <Job salary={10000} position="FrontEnd Dev" company="UMN" /> */}
       {/* <User name="Jason" age={19} email="jason@albert.com" />
